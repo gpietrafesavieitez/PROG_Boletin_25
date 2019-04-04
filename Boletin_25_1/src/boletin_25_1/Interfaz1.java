@@ -49,6 +49,7 @@ public class Interfaz1 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("New User...");
+        setResizable(false);
 
         jLabel1.setText("Create a new user");
 
